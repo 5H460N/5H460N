@@ -14,8 +14,6 @@ I'm 5H460N from INDIA, and I do content on Design and Development. I really enjo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=5H460N)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5H460N)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=5H460N&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=5H460N)  
