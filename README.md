@@ -1,12 +1,13 @@
 ![IM 5H460N](https://github.com/5H460N/5H460N/blob/main/5H460N.jpg)
 
 # 5H460N
-I'm 5H460N from INDIA, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
-
-## Skills 
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS, PYTHON
+I'm 5H460N from INDIA, and I really enjoy learning languages. I'm not a pro👽 
+* I'm currently working on TEAM-MA
+## Learning
+* 💻 HTML
+* 💻 CSS
+* 💻 JS
+* 💻 PYTHON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/5H460N)  
 
