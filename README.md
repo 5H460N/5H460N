@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/5H460N/5H460N/blob/main/5H460N.jpg)
+![IM 5H460N](https://github.com/5H460N/5H460N/blob/main/5H460N.jpg)
 
 # 5H460N
 I'm 5H460N from INDIA, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
@@ -15,12 +15,6 @@ I'm 5H460N from INDIA, and I do content on Design and Development. I really enjo
 [![trophy](https://github-profile-trophy.vercel.app/?username=5H460N)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=5H460N&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=5H460N)  
-
-![GitHub metrics](https://metrics.lecoq.io/5H460N)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=5H460N)  
 
 ![Profile views](https://gpvc.arturio.dev/5H460N)
 
