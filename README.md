@@ -1,8 +1,9 @@
 ![IM 5H460N](https://github.com/5H460N/5H460N/blob/main/5H460N.jpg)
 
 # 5H460N
-I'm 5H460N from INDIA, and I really enjoy learning languages. I'm not a pro👽 
-* I'm currently working on TEAM-MA
+I'm 5H460N from INDIA, 
+ #alive :)
+* I'm currently working on -  🔐 
 ## Learning
 * 💻 HTML
 * 💻 CSS
