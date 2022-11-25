@@ -5,10 +5,9 @@ I'm 5H460N from INDIA,
  #alive :)
 * I'm currently working on -  🔐 
 ## Learning
-* 💻 HTML
-* 💻 CSS
-* 💻 JS
-* 💻 PYTHON
+
+
+----------------------
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/5H460N)  
 
